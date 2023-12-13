@@ -1,0 +1,18 @@
+*{background-color:#D9DDDC}
+
+h1{
+  border-style:solid;
+  border-color:black;
+  background-color:#36454F;
+  border-width:2px;
+  font-color: white;
+}
+
+h2{background-color:gray;}
+h2{border: 3px solid;}
+h3{
+  border-style:solid;
+  border-color:black;
+  background-color:gray;
+  border-width:2px;
+}
